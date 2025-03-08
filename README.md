@@ -6,7 +6,7 @@ A university group project that attempts to visualize the relations between Mart
 - `originMartha.py` - Main Python script
 - `Dark_GD_Contest_Events.csv` - Events dataset
 - `Dark_GD_Contest_Edges.csv` - Edges dataset
-- `rip-Potoroom.png` - Image for the visualization
+- `rip-Photoroom.png` - Image for the visualization
 - `graph.png` - Final graph
 
 ## 🚀 How to Use
